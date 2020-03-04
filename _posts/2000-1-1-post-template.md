@@ -7,7 +7,7 @@ tags: [template]
 image: assets/images/1.jpg
 description: "Template for other posts"
 featured: false
-hidden: false
+hidden: true
 ---
 
 Review products, books, movies, restaurant and anything you like on your Jekyll blog with Mediumish! JSON-LD ready for review property.
