@@ -1,7 +1,7 @@
 # Site
 name: "Bytes Pun Here"
 title: "Bytes Pun Here"
-description: "A collection of recipes from an infosec 'professional'."
+description: "A food blog from an infosec 'professional'."
 logo: 'assets/images/cutlery.svg'
 favicon: 'assets/images/cutlery.svg'
 baseurl: /recipes

@@ -2,8 +2,8 @@
 layout: post
 title:  "Post Template"
 author: nathaniel
-categories: [template]
-tags: [template]
+categories: 
+tags: 
 image: assets/images/hello.jpg
 description: "Template for other posts"
 featured: false
