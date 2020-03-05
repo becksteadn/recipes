@@ -2,8 +2,8 @@
 name: "Bytes Pun Here"
 title: "Bytes Pun Here"
 description: "A collection of recipes from an infosec 'professional'."
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/cutlery.svg'
+favicon: 'assets/images/cutlery.svg'
 baseurl: /recipes
 google_analytics: 'UA-90662247-1'
 disqus: 
@@ -16,10 +16,10 @@ authors:
   nathaniel:
     name: Nathaniel
     display_name: Nathaniel
-    gravatar: 6f7a5ca96484922ea9eb449663f6954b
+    avatar: assets/images/man.svg
     email: nathaniel@scriptingis.life
     web: https://scriptingis.life
-    twitter: https://twitter.com/scriptingis.life
+    twitter: https://twitter.com/scriptingislife
     description: "Cooking is my meditation. I like to get away from the computer and experiment by creating complex and (sometimes) healthy meals."
 
 # Plugins
@@ -54,8 +54,8 @@ kramdown:
 
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
 adsense: "disabled"
-adsense-data-ad-client: "ca-pub-3412143450191416"
-adsense-data-ad-slot: "1363087678"
+adsense-data-ad-client:
+adsense-data-ad-slot:
 
 # Lazy Images ("enabled" or "disabled")
 lazyimages: "disabled"
