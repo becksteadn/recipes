@@ -4,7 +4,7 @@ title:  "Post Template"
 author: nathaniel
 categories: [template]
 tags: [template]
-image: assets/images/1.jpg
+image: assets/images/hello.jpg
 description: "Template for other posts"
 featured: false
 hidden: true
